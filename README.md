@@ -1,1 +1,1 @@
-# ERPapp
+# ERP created with Django 
