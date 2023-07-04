@@ -172,3 +172,16 @@ cython_debug/
 #.idea/
 
 # End of https://www.toptal.com/developers/gitignore/api/django
+
+# Ignorar archivos estáticos generados por Django
+/staticfiles/
+
+# Ignorar el directorio de archivos estáticos
+/static/
+
+# Ignorar archivos de caché de archivos estáticos
+.cache/
+
+# Ignorar archivos de configuración de archivos estáticos generados por Django
+*.pyc
+*.pyo
